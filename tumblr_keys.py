@@ -1,4 +1,4 @@
-consumer_key = '5HxIJuaZ7hKiGPJNWy3zcbClOWZDRfEltuw0b0UMhBZX4GoUD8'
-consumer_secret = 'cnsoYrbXNJZkmFJ3b9vyFA6at3bPqD52dEwP8w87mDyGaPtHT4'
-token_key = 'zrdOMQBDrLWyLZ1RjWFlWllLKWzPaypmDF0SNAARHO4WW96rmP' 
-token_secret = '3blWJtxf85rF5drd7SomcRlu4wiunwcFuztPGbzkz3dOXQp3bz'
+consumer_key: '5HxIJuaZ7hKiGPJNWy3zcbClOWZDRfEltuw0b0UMhBZX4GoUD8',
+consumer_secret: 'cnsoYrbXNJZkmFJ3b9vyFA6at3bPqD52dEwP8w87mDyGaPtHT4',
+token: 'zrdOMQBDrLWyLZ1RjWFlWllLKWzPaypmDF0SNAARHO4WW96rmP',
+token_secret: '3blWJtxf85rF5drd7SomcRlu4wiunwcFuztPGbzkz3dOXQp3bz'
